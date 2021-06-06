@@ -1,0 +1,4 @@
+model\Contact$Status.class
+repository\ContactRepository.class
+controller\ContactController.class
+model\Contact.class
